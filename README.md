@@ -22,11 +22,11 @@ I'm Marcus Wenzel, known as znepb on the internet. I'm a programmer, percussioni
 
 ### What I've been working on
 - LIT, a chat app. I've been working on this with [AutiOne](https://github.com/autione)
-- Redoing znepb.me into v7 and in NextJS (postponed)
 - Some sort of web-based music app (postponed)
 
 ### Past projects
+- [Zeta (znepb.me v6)](https://znepb.me/)
+- [Lens](https://lens.znepb.me)
 - Countdowns app
-- files.znepb.me (really bad, going to redo soon)
-- znepb.me
+- files.znepb.me
 - I'm probably forgetting a lot.
